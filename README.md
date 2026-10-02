@@ -21,8 +21,8 @@
 ### `$ whoami`
 
 ```yaml
-handle:    YOUR_USERNAME
-role:      [ Systems Developer, Reverse Engineering, Security Tooling ]
-stack:     [ Lua, Python, C++, Rust ]
+handle:    stam
+role:      [ Pen Test, Reverse Engineering, Modding]
+stack:     [ Lua, Python, C++, ]
 specialty: [ Bytecode Analysis, Virtual Machine Sandboxing, Bot Architecture ]
-motto:     "Deconstruct the system to understand the truth"
+motto:     "The Quieter you become the more you are able to hear"
